@@ -1,0 +1,5 @@
+{
+  "name": "SpeedyReader AI",
+  "description": "A high-performance RSVP (Rapid Serial Visual Presentation) speed reading application enhanced with Gemini AI for text summarization and generation.",
+  "requestFramePermissions": []
+}
